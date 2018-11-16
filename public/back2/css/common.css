@@ -1,0 +1,12 @@
+.body_bg {
+  background-color: #222D32;
+}
+.panel-title {
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 20px;
+}
+.container {
+  margin-top: 150px;
+}
