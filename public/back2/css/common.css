@@ -5,6 +5,10 @@ a:active {
   text-decoration: none; 
 }
 
+.modal-footer {
+  border: none;
+}
+
 ul {
   list-style: none;
   padding: 0;
